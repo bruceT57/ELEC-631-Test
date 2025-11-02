@@ -1,0 +1,23 @@
+{
+  "name": "peer-study-planner",
+  "version": "1.0.0",
+  "description": "AI-powered peer study session planning tool",
+  "private": true,
+  "scripts": {
+    "install-backend": "cd backend && npm install",
+    "dev": "cd backend && npm run dev",
+    "build": "cd backend && npm run build",
+    "start": "cd backend && npm start"
+  },
+  "keywords": [
+    "ai",
+    "education",
+    "peer-study",
+    "planning",
+    "openai",
+    "gemini",
+    "claude"
+  ],
+  "author": "",
+  "license": "MIT"
+}
